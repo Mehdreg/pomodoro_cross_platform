@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350147608711",
+    "firebase_url": "https://pomodororeact-ea66f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pomodororeact-ea66f",
+    "storage_bucket": "pomodororeact-ea66f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350147608711:android:5c60ddc3a8325f5f70f822",
+        "android_client_info": {
+          "package_name": "com.yourname.pomodoreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350147608711-skgu3el8ktl8chp7jeca3bo5cm271c85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SZQLK4wEG3tT3A1t-6mHU3tkCv-wVW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350147608711-skgu3el8ktl8chp7jeca3bo5cm271c85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
